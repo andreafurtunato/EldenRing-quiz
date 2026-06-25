@@ -1,4 +1,4 @@
-# 🎮 Elden Ring Quiz
+# Elden Ring Quiz
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Sobre o projeto
+## Sobre o projeto
 
 Este é um quiz interativo desenvolvido em **Python**, inspirado no universo de **Elden Ring**.
 
@@ -15,7 +15,7 @@ O projeto tem como objetivo praticar lógica de programação, estruturas condic
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - ✔️ Início com confirmação (S/N)
 - ✔️ Entrada do nome do jogador
@@ -40,7 +40,7 @@ Este projeto foi desenvolvido para treinar lógica de programação e criação 
 
 ---
 
-## ⭐ Possíveis melhorias futuras
+##  Possíveis melhorias futuras
 
 - Sistema de porcentagem de acertos (ex: 80% de acerto)
 - Sistema de perguntas aleatórias (ordem diferente a cada execução)
